@@ -56,14 +56,23 @@ Follow these simple steps to run the project locally:
 ---
 Netflix_clone/
 │
+
 ├── netflix_frontend/
+
 │   ├── index.html         # Main HTML page
+
 │   ├── css/
+
 │   │   └── styles.css     # Stylesheet
+
 │   ├── js/
+
 │   │   └── app.js         # JavaScript for interactivity
+
 │   └── screenshots/       # Screenshots used in README
+
 │
+
 └── README.md              # This file
 
 ---
