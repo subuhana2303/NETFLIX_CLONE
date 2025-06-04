@@ -1,98 +1,105 @@
-# 🎬 Netflix Clone
-
-A sleek, responsive **Netflix-inspired web application** built with pure **HTML, CSS, and JavaScript** — demonstrating modern web design and interactive UI components.
-
----
-
-### **Overview**
-
-This project replicates the look and feel of Netflix's homepage, featuring a dynamic banner, categorized movie rows, and a fully responsive layout that adapts seamlessly across devices. It’s designed as a front-end showcase without backend integration or external APIs.
+<h1 align="center">🎬 Netflix Clone</h1>
+<p align="center">
+  A sleek, responsive <b>Netflix-inspired web application</b> built with pure <b>HTML, CSS, and JavaScript</b> — demonstrating modern web design and interactive UI components.
+</p>
 
 ---
 
-### **Features**
-
-- ✅ **Responsive Design:** Optimized for desktops, tablets, and mobile devices  
-- ✅ **Modern UI/UX:** Clean layout with smooth hover animations and intuitive navigation  
-- ✅ **Dynamic Movie Rows:** Scrollable movie categories with clickable cards  
-- ✅ **Featured Banner:** Highlight your top movie/show with engaging visuals  
-- ✅ **Vanilla JavaScript:** Minimal dependencies, easy to extend and customize  
+<h3 align="center">✨ Overview</h3>
+<p align="center">
+  This project replicates the look and feel of Netflix's homepage, featuring a dynamic banner, categorized movie rows, and a fully responsive layout that adapts seamlessly across devices. It’s designed as a front-end showcase without backend integration or external APIs.
+</p>
 
 ---
 
-### **Demo**
-
-![Home Page]![Screenshot 2025-06-04 181247](https://github.com/user-attachments/assets/a82e2cf6-8c8f-45a6-9faa-b40ed21a3e79)
-
-*Main landing page showcasing the featured banner and movie sections.*
-
-![Movie Details]![Screenshot 2025-06-04 181336](https://github.com/user-attachments/assets/0e51a514-d828-438c-9bfc-2931f869b68b)
-
-*Detailed movie view or modal with summary and additional info.*
-
-![Responsive Layout]![Screenshot 2025-06-04 181443](https://github.com/user-attachments/assets/a9db7a4b-39bb-4122-bbc9-1661aac8705b)
-
-*Example of the responsive behavior on different screen sizes.*
+<h3 align="center">🚀 Features</h3>
+<ul>
+  <li>✅ <b>Responsive Design:</b> Optimized for desktops, tablets, and mobile devices</li>
+  <li>✅ <b>Modern UI/UX:</b> Clean layout with smooth hover animations and intuitive navigation</li>
+  <li>✅ <b>Dynamic Movie Rows:</b> Scrollable movie categories with clickable cards</li>
+  <li>✅ <b>Featured Banner:</b> Highlight your top movie/show with engaging visuals</li>
+  <li>✅ <b>Vanilla JavaScript:</b> Minimal dependencies, easy to extend and customize</li>
+</ul>
 
 ---
 
-### **Getting Started**
+<h3 align="center">🎞️ Demo</h3>
+<p align="center">
+  <img src="./screenshots/homepage.png" alt="Home Page" width="400"/><br/>
+  <i>Main landing page showcasing the featured banner and movie sections.</i>
+</p>
+<p align="center">
+  <img src="./screenshots/moviedetails.png" alt="Movie Details" width="400"/><br/>
+  <i>Detailed movie view or modal with summary and additional info.</i>
+</p>
+<p align="center">
+  <img src="./screenshots/responsive.png" alt="Responsive Layout" width="400"/><br/>
+  <i>Example of the responsive behavior on different screen sizes.</i>
+</p>
 
-Follow these simple steps to run the project locally:
-
-#### **Prerequisites**
-
-- Modern web browser (Chrome, Firefox, Edge, Safari)  
-- Code editor (optional, e.g., VSCode)  
 ---
-#### **Installation**
 
-1. **Clone the repository**
+<h3 align="center">🛠️ Getting Started</h3>
 
-   ```bash
-   git clone https://github.com/subuhana2303/Netflix_clone.git
+<h4>📋 Prerequisites</h4>
+<p>
+- Modern web browser (Chrome, Firefox, Edge, Safari)<br/>
+- Code editor (optional, e.g., VSCode)
+</p>
 
-#### **Project Strcture**
+<h4>⚙️ Installation</h4>
+<pre>
+<code>git clone https://github.com/subuhana2303/Netflix_clone.git
+cd Netflix_clone/netflix_frontend
+</code>
+</pre>
+<p>Open <code>index.html</code> in your browser to view the project.</p>
+
 ---
+
+<h3 align="center">📁 Project Structure</h3>
+
+<pre>
 Netflix_clone/
 │
-
 ├── netflix_frontend/
-
 │   ├── index.html         # Main HTML page
-
 │   ├── css/
-
 │   │   └── styles.css     # Stylesheet
-
 │   ├── js/
-
 │   │   └── app.js         # JavaScript for interactivity
-
 │   └── screenshots/       # Screenshots used in README
-
 │
-
 └── README.md              # This file
+</pre>
 
 ---
-#### ** Technology Used **
-| Technology     | Description                         |
-| -------------- | ----------------------------------- |
-| **HTML**       | Semantic markup and page structure   |
-| **CSS**        | Responsive layouts and animations    |
-| **JavaScript** | DOM manipulation and event handling |
 
-#### **Contribution**
-Contributions and suggestions are welcome! Feel free to:
+<h3 align="center">🧰 Technologies Used</h3>
 
-Open issues to report bugs or request features
+<table>
+  <tr><th>Technology</th><th>Description</th></tr>
+  <tr><td><b>HTML5</b></td><td>Semantic markup and page structure</td></tr>
+  <tr><td><b>CSS3</b></td><td>Responsive layouts and animations</td></tr>
+  <tr><td><b>JavaScript</b></td><td>DOM manipulation and event handling</td></tr>
+</table>
 
-Fork the repository and submit pull requests
+---
 
-**Contact**
-Subuhana_B
+<h3 align="center">🤝 Contribution</h3>
+<p align="center">
+Contributions and suggestions are welcome! Feel free to open issues or submit pull requests.
+</p>
 
-GitHub: @subuhana2303
+---
 
+<h3 align="center">📬 Contact</h3>
+<p align="center">
+<b>Subuhana Basheer</b><br/>
+GitHub: <a href="https://github.com/subuhana2303">@subuhana2303</a><br/>
 Email: subuhana41@gmail.com
+</p>
+
+---
+
+⭐ If you find this project helpful or interesting, please give it a star!
