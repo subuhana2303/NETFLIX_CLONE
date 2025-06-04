@@ -83,7 +83,6 @@ Netflix_clone/
   <tr><td><b>JavaScript</b></td><td>DOM manipulation and event handling</td></tr>
 </table>
 </p>
----
 
 <h3 align="center">🤝 Contribution</h3>
 <p align="center">
@@ -96,7 +95,7 @@ Contributions and suggestions are welcome! Feel free to open issues or submit pu
 <p align="center">
 <b>Subuhana Basheer</b><br/>
 GitHub: <a href="https://github.com/subuhana2303">@subuhana2303</a><br/>
-Email: subuhana41@gmail.com
+Email: subuhanabasheer41@gmail.com
 </p>
 
 ---
