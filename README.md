@@ -79,8 +79,20 @@ Netflix_clone/
 #### ** Technology Used **
 | Technology     | Description                         |
 | -------------- | ----------------------------------- |
-| **HTML5**      | Semantic markup and page structure  |
-| **CSS3**       | Responsive layouts and animations   |
+| **HTML**       | Semantic markup and page structure   |
+| **CSS**        | Responsive layouts and animations    |
 | **JavaScript** | DOM manipulation and event handling |
 
+#### **Contribution**
+Contributions and suggestions are welcome! Feel free to:
 
+Open issues to report bugs or request features
+
+Fork the repository and submit pull requests
+
+**Contact**
+Subuhana_B
+
+GitHub: @subuhana2303
+
+Email: subuhana41@gmail.com
