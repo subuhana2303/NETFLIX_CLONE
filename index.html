@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Netflix Clone - Signature</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="nav-container">
+      <div class="logo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix Logo" style="height: 40px;" />
+      </div>
+      <ul class="nav-links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">TV Shows</a></li>
+        <li><a href="#">Movies</a></li>
+        <li><a href="#">New & Popular</a></li>
+        <li><a href="#">My List</a></li>
+      </ul>
+      <div class="nav-icons">
+        <div class="search-container">
+          <input type="text" placeholder="Search" />
+          <span class="search-icon">🔍</span>
+        </div>
+        <button class="icon-btn">🔔</button>
+        <div class="profile-pic"></div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Banner -->
+  <section class="hero">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <h1 class="hero-title">Stranger Things</h1>
+      <p class="hero-description">
+        When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces to get him back.
+      </p>
+      <div class="hero-buttons">
+        <button class="btn btn-play">▶ Play</button>
+        <button class="btn btn-info">ℹ More Info</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Movie Rows -->
+  <section class="movie-section">
+    <h2 class="section-title">Trending Now</h2>
+    <div class="movie-row" data-row="0">
+      <!-- Movie thumbnails will be inserted here -->
+    </div>
+  </section>
+
+  <section class="movie-section">
+    <h2 class="section-title">Top Rated</h2>
+    <div class="movie-row" data-row="1"></div>
+  </section>
+
+  <section class="movie-section">
+    <h2 class="section-title">Action Movies</h2>
+    <div class="movie-row" data-row="2"></div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>Netflix Clone &copy; 2025 | Made by Subuhana Basheer</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
