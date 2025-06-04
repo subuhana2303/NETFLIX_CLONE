@@ -24,10 +24,11 @@ c
 ---
 
 <h3 align="center">🎞️ Demo</h3>
-![Screenshot 2025-06-04 181247](https://github.com/user-attachments/assets/879107a0-2245-4c14-9ff7-3a95051e5396)
+
 
 *Main landing page showcasing the featured banner and movie sections.*
-
+![Home Page](https://github.com/user-attachments/assets/a82e2cf6-8c8f-45a6-9faa-b40ed21a3e79)
+*Movie details*
 ![Movie Details]![Screenshot 2025-06-04 181336](https://github.com/user-attachments/assets/0e51a514-d828-438c-9bfc-2931f869b68b)
 
 *Detailed movie view or modal with summary and additional info.*
