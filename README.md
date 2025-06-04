@@ -24,21 +24,17 @@ c
 ---
 
 <h3 align="center">🎞️ Demo</h3>
-<p align="center">
-  ![Screenshot 2025-06-04 181247](https://github.com/user-attachments/assets/f0053070-8dc1-4cff-88ed-b00445accdcb)
-<br/>
-  <i>Main landing page showcasing the featured banner and movie sections.</i>
-</p>
-<p align="center">
-![Screenshot 2025-06-04 181336](https://github.com/user-attachments/assets/1ce291ac-3016-4992-859d-d0ca59c95dbb)
-  <br/>
-  <i>Detailed movie view or modal with summary and additional info.</i>
-</p>
-<p align="center">
-![Screenshot 2025-06-04 181443](https://github.com/user-attachments/assets/3f50ca06-9ce1-41ef-81b0-fc3e9efc08aa)
-  <br/>
-  <i>Example of the responsive behavior on different screen sizes.</i>
-</p>
+![Home Page]![Screenshot 2025-06-04 181247](https://github.com/user-attachments/assets/a82e2cf6-8c8f-45a6-9faa-b40ed21a3e79)
+
+*Main landing page showcasing the featured banner and movie sections.*
+
+![Movie Details]![Screenshot 2025-06-04 181336](https://github.com/user-attachments/assets/0e51a514-d828-438c-9bfc-2931f869b68b)
+
+*Detailed movie view or modal with summary and additional info.*
+
+![Responsive Layout]![Screenshot 2025-06-04 181443](https://github.com/user-attachments/assets/a9db7a4b-39bb-4122-bbc9-1661aac8705b)
+
+*Example of the responsive behavior on different screen sizes.*
 
 ---
 
