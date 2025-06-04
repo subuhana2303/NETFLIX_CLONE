@@ -1,5 +1,5 @@
 <h1 align="center">🎬 Netflix Clone</h1>
-<p align="center">
+c
   A sleek, responsive <b>Netflix-inspired web application</b> built with pure <b>HTML, CSS, and JavaScript</b> — demonstrating modern web design and interactive UI components.
 </p>
 
@@ -25,15 +25,18 @@
 
 <h3 align="center">🎞️ Demo</h3>
 <p align="center">
-  <img src="./screenshots/homepage.png" alt="Home Page" width="400"/><br/>
+  ![Screenshot 2025-06-04 181247](https://github.com/user-attachments/assets/f0053070-8dc1-4cff-88ed-b00445accdcb)
+<br/>
   <i>Main landing page showcasing the featured banner and movie sections.</i>
 </p>
 <p align="center">
-  <img src="./screenshots/moviedetails.png" alt="Movie Details" width="400"/><br/>
+![Screenshot 2025-06-04 181336](https://github.com/user-attachments/assets/1ce291ac-3016-4992-859d-d0ca59c95dbb)
+  <br/>
   <i>Detailed movie view or modal with summary and additional info.</i>
 </p>
 <p align="center">
-  <img src="./screenshots/responsive.png" alt="Responsive Layout" width="400"/><br/>
+![Screenshot 2025-06-04 181443](https://github.com/user-attachments/assets/3f50ca06-9ce1-41ef-81b0-fc3e9efc08aa)
+  <br/>
   <i>Example of the responsive behavior on different screen sizes.</i>
 </p>
 
@@ -76,14 +79,14 @@ Netflix_clone/
 ---
 
 <h3 align="center">🧰 Technologies Used</h3>
-
+<p align="center">
 <table>
   <tr><th>Technology</th><th>Description</th></tr>
-  <tr><td><b>HTML5</b></td><td>Semantic markup and page structure</td></tr>
-  <tr><td><b>CSS3</b></td><td>Responsive layouts and animations</td></tr>
+  <tr><td><b>HTML</b></td><td>Semantic markup and page structure</td></tr>
+  <tr><td><b>CSS</b></td><td>Responsive layouts and animations</td></tr>
   <tr><td><b>JavaScript</b></td><td>DOM manipulation and event handling</td></tr>
 </table>
-
+</p>
 ---
 
 <h3 align="center">🤝 Contribution</h3>
